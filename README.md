@@ -8,4 +8,7 @@ An object-oriented C++ linear algebra library with following capabilities,
 7. over-ridden constructor, copy constructor and destructor
 8. Gauss Elimination with scaled row pivoting
 9. determinant of a n*n matrix
-10. MATLAB style "length" function. 
+10. MATLAB style "length" function.
+
+For Compilation,
+$ make exec
